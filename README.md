@@ -96,4 +96,5 @@ While **RyDefend** is our commitment to a secure environment, the **ultimate leg
 We invite talented developers and security enthusiasts to join the RyPX vision.
 
 * **View Core Documentation:** [Visit the RyPX Wiki](https://github.com/BluePlayzgoStudio/RanyangProjectXBeta/wiki/core)
-* 
+* **Report Issues:** [Open a detailed Bug Report Here](https://github.com/BluePlayzgoStudio/RanyangProjectXBeta/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=)
+* **Submit a Sub-Script:** Check our contribution guidelines for how to securely submit your tool for inclusion in the RyPX server metadata.
